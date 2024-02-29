@@ -1,0 +1,40 @@
+# Arquivos temporários gerados pelo Visual Studio
+.vs/
+obj/
+bin/
+
+# Arquivos de compilação gerados pelo Visual Studio
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.vspscc
+*.vssscc
+*.zip
+*.bak
+
+# Diretório do NuGet
+packages/
+
+# Diretório do Telerik Reporting
+Telerik.ReportDesigner/
+
+# Arquivos de usuário do Visual Studio
+*.suo
+*.user
+*.sln.docstates
+
+# Arquivos de configuração
+*.config
+
+# Logs e outros arquivos gerados pelo sistema
+*.log
+*.sqlite
+*.sqlite3
+*.bak
+*.swp
+
+# Arquivos específicos do sistema operacional
+[Tt]humbs.db
+.DS_Store
